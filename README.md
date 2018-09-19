@@ -7,4 +7,11 @@ This project begines at 2018/09/04, I want to keep track of how long it takes to
 
 God bless me!
 
-2018/09/05 Support taglist and NERDTree for vim
+## modification history
+2018/09/05 Support taglist and NERDTree for vim.
+2018/09/20 Add ctags usage.
+
+
+## ctags usage： 
+Ctrl＋］ Jump to the definition of the keyword which the mouse point to
+Ctrl＋T  Back to the last mark
