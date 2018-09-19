@@ -9,6 +9,7 @@ God bless me!
 
 ## modification history
 2018/09/05 Support taglist and NERDTree for vim.
+
 2018/09/20 Add ctags usage.
 
 
