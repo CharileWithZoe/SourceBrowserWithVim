@@ -13,7 +13,7 @@ God bless me!
 2018/09/20 Add ctags usage.
 
 
-## ctags usage： 
-Ctrl＋］ Jump to the definition of the keyword which the mouse point to
+## ctags usage:
+Ctrl+] Jump to the definition of the keyword which the mouse point to
 
-Ctrl＋T  Back to the last mark
+Ctrl+T  Back to the last mark
